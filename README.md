@@ -3,5 +3,5 @@
 
 此项目继承于[Forever and ever](https://github.com/ForeverAndEverTeam/fae-mod)。目前尚未完成Just Sayori的汉化，以前的Forever and ever汉化可见[这里](https://forum.monika.love/d/1352)。
 
-汉化文件正在准备中！目前进度：游戏、诗歌已完成（感谢本懿的诗歌翻译！）
-很快就会好的（点头
+汉化文件正在准备中！目前进度：游戏、诗歌已完成（感谢本懿的诗歌翻译！）；基本功能翻译已完成。
+现在就差大头的对话了，很快就会好的（点头
