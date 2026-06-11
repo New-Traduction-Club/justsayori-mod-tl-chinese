@@ -16,7 +16,7 @@ translate chinese compliment_best_girl_f4535cc3:
 translate chinese compliment_best_girl_2934d886:
 
     # s bbfclfc "After all, I always thought that I might be the least likable given the fact most would choose one of my friends over me, but..."
-    s bbfclfc "虽然我一直都觉得自己应该是最不受喜欢的那个女孩，毕竟很多人都只把我当作最好的朋友……"
+    s bbfclfc "虽然我一直都觉得自己应该是最不受喜欢的那个女孩，毕竟很多人都会选除了我之外的其他朋友……"
 
 # game/dialogs/script-compliments.rpy:67
 translate chinese compliment_best_girl_40f87437:
