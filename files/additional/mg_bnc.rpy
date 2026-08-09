@@ -102,11 +102,11 @@ translate chinese strings:
 
     # game/additional/mg_bnc.rpy:52
     old "{color=#00cc00}Bulls: [bnc.bulls]{/color}"
-    new "{color=#00cc00}Bulls: [bnc.bulls]{/color}"
+    new "{color=#00cc00}蝴蝶结: [bnc.bulls]{/color}"
 
     # game/additional/mg_bnc.rpy:53
     old "{color=#ffff00}Cows: [bnc.cows]{/color}"
-    new "{color=#ffff00}Cows: [bnc.cows]{/color}"
+    new "{color=#ffff00}奶牛: [bnc.cows]{/color}"
 
     # game/additional/mg_bnc.rpy:56
     old "{i}Right answer: [bnc.guessed]{/i}"
